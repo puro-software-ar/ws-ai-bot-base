@@ -1,0 +1,6 @@
+# space.yml
+build:
+  docker:
+    dockerfile: Dockerfile
+run:
+  command: ["npm", "run", "dev"]

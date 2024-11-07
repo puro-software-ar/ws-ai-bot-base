@@ -1,0 +1,6 @@
+node_modules
+node_modules
+files
+.env
+bot_sessions
+dist
